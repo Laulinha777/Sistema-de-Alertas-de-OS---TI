@@ -13,3 +13,7 @@ Como **melhoria futura**, o projeto poderá ser integrado ao **n8n**, permitindo
 - Python
 - MySQL
 - Telegram Bot
+
+<p align="center"> 
+<img  width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/382d9713-cfab-4b03-af91-3041faad5e22" />
+</p>
