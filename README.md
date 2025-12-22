@@ -1,6 +1,6 @@
 # 🔎Sistema de Monitoramento de Ordens de Serviço - TI
 
-Projeto com o objetivo de notificar automaticamente quando suregm novas Ordens de Serviço (OS) destinadas ao setor de TI.
+>>Projeto com o objetivo de notificar automaticamente quando suregm novas Ordens de Serviço (OS) destinadas ao setor de TI.
 
 ## 🎇Sobre o Projeto:
   A solução foi desenvolvida utilizando Python, com integração a um bot, criado do Telegram, responsável por enviar mensagens de alerta sempre que uma nova OS é identificada para o setor de TI, da empresa onde realizo estágio. 
