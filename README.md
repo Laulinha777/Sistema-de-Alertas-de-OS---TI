@@ -1,9 +1,9 @@
 # 🔎Sistema de Monitoramento de Ordens de Serviço - TI
 
->>Projeto com o objetivo de notificar automaticamente quando suregm novas Ordens de Serviço (OS) destinadas ao setor de TI.
+>>Projeto com o objetivo de notificar automaticamente quando surgem novas Ordens de Serviço (OS's) destinadas ao setor de TI.
 
 ## 🎇Sobre o Projeto:
-  A solução foi desenvolvida utilizando Python, com integração a um bot, criado do Telegram, responsável por enviar mensagens de alerta sempre que uma nova OS é identificada para o setor de TI, da empresa onde realizo estágio. 
+  A solução foi desenvolvida utilizando Python, com integração a um bot, criado no Telegram, responsável por enviar mensagens de alerta sempre que uma nova OS é identificada para o setor de TI, da empresa onde realizo estágio. 
 As notificações das OS’s, contendo ID e a Descrição, são obtidas diretamente do banco de dados do sistema ERP utilizado pela empresa, através de consultas realizadas no MySQL (via MySQL WorkBench).
 
   O sistema realiza o monitoramento contínuo das novas OS's enquanto o servidor está em execução. Anteriormente, esse processo era feito de forma **manual**, sendo necessário procurar as OS's destinadas ao setor, o que demandava mais tempo e tornava o processo menos eficiente.
